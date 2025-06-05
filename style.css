@@ -29,7 +29,7 @@ body {
 }
 
 .dropdown-menu {
-  backdrop-filter: blur(90px);
+  backdrop-filter: blur(10px);
   background-color: #d7d7d74a;
   z-index: 100;
   opacity: 0.9;
@@ -40,7 +40,7 @@ body {
 
   .dropdown-item {
     color: var(--primary-color) !important;
-    font-weight: 800;
+    font-weight: 900;
   }
 }
 
